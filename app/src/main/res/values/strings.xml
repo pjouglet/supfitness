@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SupFitness</string>
+    <string name="weight">Weight</string>
+    <string name="weight_curve">Weight Curve</string>
+    <string name="foot_races">Foot Races</string>
+    <string name="delete">Delete</string>
+    <string name="add_current_weight">Add current weight</string>
+    <string name="ok">OK</string>
+    <string name="cancel">Cancel</string>
+    <string name="value_already_added">You have already added your weight.</string>
+    <string name="map_position">You are at</string>
+    <string name="add_weight">Add weight</string>
+    <string name="Year">Year</string>
+</resources>
